@@ -1,6 +1,21 @@
-h1 {
-    color:red;
-    text-align: center
+body {background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-texture-geometric-black-metal-gradient-image_17809.jpg");
+    background-color: #cccccc;
+    font-family: Helvetica, sans-serif;
+    color: whitesmoke
+}
+
+#own {
+    border-radius: 35px;
+    background: rgb(202, 65, 23);
+    padding: 10px; 
+    width: 200px;
+    height: 150px;  
+}
+
+nav {text-align: center;
+}
+
+h1 {text-align: center;
 }
 
 img {
@@ -9,12 +24,7 @@ img {
     margin: 1.66%;
 }
 
-p {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
-
-    margin-left: 1.66%;
-    border-bottom: 3px solid black;
+h2 {text-align: center;
+    border-bottom: 3px solid rgb(202, 65, 23);
     width: 30%;
-    padding-bottom: 20px;
 }
